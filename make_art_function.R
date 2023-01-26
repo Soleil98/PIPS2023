@@ -1,4 +1,4 @@
-make_art <- function(seed = 981) {
+make_art <- function(seed = 29854791) {
   set.seed(seed)
   for (i in 1:50) {
     n <- sample(c(50:100), 1)
