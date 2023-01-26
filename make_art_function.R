@@ -60,11 +60,3 @@ make_art <- function(seed = 29854791) {
     
   }
 }
-
-
-
-
-
-
-
-
